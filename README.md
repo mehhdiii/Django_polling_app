@@ -1,4 +1,4 @@
-# django_polling_app
+Polling app on Django
  
  A polling app created through following the introductory [documentation](https://docs.djangoproject.com/en/4.0/intro/) for Django containing the following parts: 
  
